@@ -1,28 +1,30 @@
 <h1><centre>Banking System Simulator (Core Java & OOPs)</centre>
 </h1>
-Overview :-  
 
+<h4>Overview :- </h4> 
+
+<h5>
 The Banking System Simulator is a beginner-friendly Java console application that simulates the core functionalities of a real-world banking system.
 It demonstrates Object-Oriented Programming (OOPs) principles such as Encapsulation, Abstraction, and Inheritance, along with important Java concepts like Collections, Exception Handling, Functional Programming, and Multithreading.
-
+</h5>
 
 How to Run the Project (in VS Code or Command Line)
 
-Step 1 — Clone the Repository
+Step 1 — <h2>Clone the Repository<h2>
 
-git clone  
+<h4>Git Clone</h4>  
 
         https://github.com/charansai1432/Banking-System-Simulator-Using-Java
 
 
 
-Navigate to respective after cloning the repo
+<h4>Navigate to respective after cloning the repo</h4>
 
          cd banking-system/src
 
 
 
-Step 2 — Compile the Code
+<h4>Step 2 — Compile the Code<h4>
 
 (Important command to compile all java files at once)
 
@@ -30,11 +32,12 @@ Step 2 — Compile the Code
 
 
 
-Step 3 — Run the Application
+<h4>Step 3 — Run the Application</h4>
 
         java bank.main
 
 
+<h3>
 You’ll see:
 
 ==== Banking System ====
@@ -42,7 +45,7 @@ You’ll see:
 2. Perform Account Operations
 3. Exit
 
-
+</h3>
 The system allows users to:
 
     Create new bank accounts
