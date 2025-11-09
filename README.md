@@ -1,5 +1,5 @@
-    - Banking System Simulator (Core Java & OOPs)
-
+<h1><centre>Banking System Simulator (Core Java & OOPs)</centre>
+</h1>
 Overview :-  
 
 The Banking System Simulator is a beginner-friendly Java console application that simulates the core functionalities of a real-world banking system.
@@ -18,7 +18,7 @@ git clone
 
 Navigate to respective after cloning the repo
 
-        - cd banking-system/src
+         cd banking-system/src
 
 
 
