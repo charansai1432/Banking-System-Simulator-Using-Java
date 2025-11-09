@@ -35,15 +35,15 @@ Step 1 — <h2>Clone the Repository<h2>
 
 
 
-<h4>Step 3 — Run the Application
-
-    Make sure your at correct path 
     
-    - cd/src   (file path)
+     
 
+Step 3 — Run the Application Make sure your at correct path -  cd/src   (file path)
+
+    
         java bank.main
 
-</h4>
+
 
 
 <centre>
