@@ -37,7 +37,7 @@ Step 1 — <h2>Clone the Repository<h2>
 
 <h4>Step 3 — Run the Application
 
-        Make sure your at cd/src   (file path)
+    Make sure your at cd/src   (file path)
 
         java bank.main
 
