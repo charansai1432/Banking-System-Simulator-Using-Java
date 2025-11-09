@@ -37,7 +37,7 @@ Step 1 — <h2>Clone the Repository<h2>
         java bank.main
 
 
-<h3>
+<h4></centre>
 You’ll see:
 
 ==== Banking System ====
@@ -45,7 +45,7 @@ You’ll see:
 2. Perform Account Operations
 3. Exit
 
-</h3>
+</h4></centre>
 The system allows users to:
 
     Create new bank accounts
