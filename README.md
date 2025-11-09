@@ -8,7 +8,10 @@ The Banking System Simulator is a beginner-friendly Java console application tha
 It demonstrates Object-Oriented Programming (OOPs) principles such as Encapsulation, Abstraction, and Inheritance, along with important Java concepts like Collections, Exception Handling, Functional Programming, and Multithreading.
 </h5>
 
+<h1>
 How to Run the Project (in VS Code or Command Line)
+</h1>
+
 
 Step 1 — <h2>Clone the Repository<h2>
 
@@ -32,9 +35,13 @@ Step 1 — <h2>Clone the Repository<h2>
 
 
 
-<h4>Step 3 — Run the Application</h4>
+<h4>Step 3 — Run the Application
+
+        Make sure your at cd/src   (file path)
 
         java bank.main
+
+</h4>
 
 
 <centre>
