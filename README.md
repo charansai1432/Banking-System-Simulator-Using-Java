@@ -37,7 +37,7 @@ Step 1 — <h2>Clone the Repository<h2>
         java bank.main
 
 
-<h4></centre>
+<h4><centre>
 You’ll see:
 
 ==== Banking System ====
