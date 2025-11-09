@@ -73,7 +73,7 @@ The system allows users to:
     Core Features & Functionality
 
     
-Account Creation
+<h2>Account Creation</h2>
 
     The user can create a new account by entering their name.
 
@@ -82,9 +82,9 @@ Account Creation
     initials + random 4-digit number
 
 
-Banking Operations
+<h1>Banking Operations</h1>
 
-Deposit
+<h5>Deposit</h5>
 
     Adds money to the account.
   
@@ -92,7 +92,7 @@ Deposit
 
     Throws InvalidAmountException for invalid input.
 
-Withdraw
+<h5>Withdraw</h5>
 
     Deducts funds if there’s sufficient balance.
 
@@ -100,7 +100,7 @@ Withdraw
 
     Uses try-catch-finally to ensure the balance remains consistent.
 
-Transfer
+<h5>Transfer</h5>
 
     Transfers money between two valid accounts.
 
@@ -110,7 +110,7 @@ Transfer
 
     Uses synchronized blocks to prevent data conflicts during simultaneous operations.
 
-Show Balance
+<h5>Show Balance</h5>
 
   - Displays:
 
@@ -122,7 +122,7 @@ Show Balance
   
   - Handles invalid account lookups using exceptions.
 
-Menu-Driven Interface
+<h5>Menu-Driven Interface</h5>
 
 Interactive console menu with options for:
 
@@ -132,7 +132,7 @@ Interactive console menu with options for:
 3. Exit
 
 
-Sub-menu:
+<h5>Sub-menu:</h5>
 
 1. Deposit
 2. Withdraw
@@ -141,11 +141,12 @@ Sub-menu:
 5. Back to Main Menu
 
 
-Input validation:
+<h5>Input validation:</h5>
 
 Catches InputMismatchException when users enter invalid data types. (i.e user has to enter only the either alphabets or numbers According to the case)
 
-Custom exceptions:
+
+<h5>Custom exceptions:</h5>
 
   -  Which provides the better error handling for the input validataion which makes the clear user experience
 
